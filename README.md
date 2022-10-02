@@ -4,11 +4,8 @@ Hi 👋 My name is Hogr Honar
 Full stack Designer
 -------------------
 
-Designer, Developer
-
 * 🌍  I'm based in Sulaymanyah, Iraq
 * ✉️  You can contact me at [hogr.it.18@gmail.com](mailto:hogr.it.18@gmail.com)
-* 🚀  I'm currently working on [Black Swift](http://https://www.black-swift.net/)
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer or designer
 * ⚡  I can kick myself in the head
 
